@@ -1,2 +1,2 @@
 # PyMage
-Become python mage
+Become a python mage
