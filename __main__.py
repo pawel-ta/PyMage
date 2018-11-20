@@ -7,7 +7,7 @@ PyMage.become_mage(globals())
 
 # Examples
 
-## Enchanting objects with other objects
+## Enchant objects with other objects
 print("\nEnchanting objects with other objects\n")
 
 some_object = A() << enchanted_with >> B()
